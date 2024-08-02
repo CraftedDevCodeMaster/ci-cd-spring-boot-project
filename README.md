@@ -1,1 +1,5 @@
-<img src="https://github.com/user-attachments/assets/51370079-d4d0-42e2-969f-7d5f086285f9" width="350" height="400" />
+## Video Demonstration
+
+A video demonstration of the functionalities is provided below:
+
+![ESS Website Login Signup Change Password](path-to-video/ess-website-login-signup-chagepassword.mp4)
